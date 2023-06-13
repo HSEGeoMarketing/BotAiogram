@@ -21,3 +21,9 @@
 ## Результаты работы команд
 Каждая команда предоставляет соответствующую информацию или результаты пользователю.
 Различные команды бота возвращают разные результаты. Ниже приведены примеры результатов работы команд:
+![1_1](https://github.com/HSEGeoMarketing/BotAiogram/assets/112046185/5d0a6357-a01b-49fc-bc3c-137b4cbe71cc)
+![1_2](https://github.com/HSEGeoMarketing/BotAiogram/assets/112046185/360e63da-b770-4b1c-bada-789985b9611c)
+![1_3](https://github.com/HSEGeoMarketing/BotAiogram/assets/112046185/9a910d29-f261-4cda-9c90-1bf591a617e3)
+![1_4](https://github.com/HSEGeoMarketing/BotAiogram/assets/112046185/f15f211f-35a0-4290-a8b2-a279d774d5ea)
+![2_1](https://github.com/HSEGeoMarketing/BotAiogram/assets/112046185/f5c57076-48ae-4339-b2bf-459473581073)
+
